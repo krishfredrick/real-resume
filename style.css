@@ -1,0 +1,39 @@
+.left{
+    background:#237892;
+
+}
+.right {
+    background-color: rosybrown;
+}
+.sections{
+    display: flex;
+}
+.left-box ,.right-box{
+    margin: 16px 34px;
+}
+.container{
+    width:65%;
+    height: auto;
+    border: 5px solid #000;
+    /* display: flex;
+    align-content: center; */
+    margin: auto;
+}
+body{
+    background-color: #0F3057;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;
+    margin:0px 12px;
+    
+}
+.head-bg{
+    margin: 0px;
+    background-color: #00ADB5;
+
+}
+strong{
+    text-shadow: 2px 2px 2px snow;
+}
